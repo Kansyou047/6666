@@ -1,6 +1,0 @@
-version 1.0
-this is a 1.0 new branch version
-at master and branch
-a new branch "dev"
-...current...
-...end
